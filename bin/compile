@@ -68,3 +68,5 @@ else
     npm install replace
   fi
 fi
+
+rm -rf node_modules/
